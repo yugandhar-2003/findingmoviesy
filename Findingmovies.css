@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.movie-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    padding: 24px;
+}
+
+.sec {
+    background-color: #48D1CC;
+}
+
+.movie-heading-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.movie-title {
+    color: #ffffff;
+    font-family: roboto;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #ffffff;
+    color: #ff8348;
+    font-family: roboto;
+    font-weight: 500;
+    width: 97px;
+    height: 37px;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.button1 {
+    background-color: DarkOliveGreen;
+    font-family: "roboto";
+    font-weight: 500;
+    width: 97px;
+    height: 37px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.movie-description {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 12px;
+}
+
+.sub-heading {
+    font-size: 18px;
+    font-family: "roboto";
+    color: #ffffff;
+}
+
+.similar-movie-image {
+    height: 25vh;
+    margin-left: 5px;
+    margin-right: 5px;
+}
